@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T10:51:06.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="-BndvADYNHUo9qEYCriN" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T12:43:48.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="lhXRjLVizmbVh2QTmV-V" version="22.0.8" type="github">
   <diagram name="Page-1" id="1NdPhYnojbXSQFUqDI4X">
     <mxGraphModel dx="1009" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xo6_dHoNOGjja1znMz9w-1" value="Lucrari cadastru&lt;br&gt;GIS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Xo6_dHoNOGjja1znMz9w-1" value="Lucrari cadastru&lt;br&gt;GIS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Xo6_dHoNOGjja1znMz9w-2" value="sectoare_cadastrale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xo6_dHoNOGjja1znMz9w-2" value="sectoare_cadastrale" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xo6_dHoNOGjja1znMz9w-3" value="retea_sprijin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
