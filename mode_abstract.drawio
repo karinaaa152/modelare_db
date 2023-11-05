@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T13:29:33.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="qogAtRUiY6VoQMAitmqg" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-05T13:29:48.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="jh8h-dPcjYYWCfuWEJ65" version="22.0.8" type="github" pages="2">
   <diagram name="Page-1" id="1NdPhYnojbXSQFUqDI4X">
     <mxGraphModel dx="2402" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,9 +31,6 @@
         <mxCell id="Xo6_dHoNOGjja1znMz9w-13" value="primarie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xo6_dHoNOGjja1znMz9w-14" value="software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1150" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Xo6_dHoNOGjja1znMz9w-15" value="dosar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="620" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,15 +39,6 @@
         </mxCell>
         <mxCell id="Xo6_dHoNOGjja1znMz9w-17" value="planse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="840" width="125" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xo6_dHoNOGjja1znMz9w-18" value="respingeri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xo6_dHoNOGjja1znMz9w-19" value="completari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xo6_dHoNOGjja1znMz9w-20" value="contestatii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xo6_dHoNOGjja1znMz9w-21" value="UAT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
@@ -129,9 +117,6 @@
               <mxPoint x="440" y="480" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Xo6_dHoNOGjja1znMz9w-57" value="templates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xo6_dHoNOGjja1znMz9w-58" value="angajati_echipa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="820" width="120" height="60" as="geometry" />
